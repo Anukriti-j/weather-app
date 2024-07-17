@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">weather app</string>
+    <string name="display">Weather matters\! \nWe\'ve got the details.</string>
+    <item name="linear3" type="id"/>
+    <item name="linear2" type="id"/>
+    <item name="linear4" type="id"/>
+    <item name="linear5" type="id"/>
+    <item name="linear6" type="id"/>
+</resources>
